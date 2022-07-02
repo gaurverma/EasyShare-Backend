@@ -1,6 +1,10 @@
 Project Live Link :
 https://gaur-easyshare.herokuapp.com/
 
+Technology:
+Rest api using Node, Express, MongoDB.
+
+
 Features:
 1. User can simply drop their file and generate a link for their file, which could be easily shared.
 2. Users can even mail the link of the uploaded file, implemented a template for that also.
