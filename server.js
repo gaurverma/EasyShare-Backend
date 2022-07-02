@@ -6,7 +6,7 @@ const path = require('path');
 const cors = require('cors');
 // Cors 
 const corsOptions = {
-  origin: process.env.ALLOWED_CLIENTS.split(',')
+  origin: "*"
 }
 
 app.use(cors(corsOptions))
